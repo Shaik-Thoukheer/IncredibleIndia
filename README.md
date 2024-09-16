@@ -1,7 +1,7 @@
 # IncredibleIndia.github.io
 
 Incredible India - Shaik Thoukheer's Web Page 
-Video link : https://github.com/Shaik-Thoukheer/Incredible-India/blob/main/My%201st%20website%20.mp4
+Video link : https://github.com/Shaik-Thoukheer/IncredibleIndia.github.io/blob/main/My%201st%20website%20.mp4
 Welcome to the official GitHub repository for Shaik Thoukheer's web page dedicated to showcasing the beauty and diversity of India's states and territories. This project contains the HTML and CSS files for a web page that provides information on various tourist destinations in India, travel tips, historical insights, and upcoming events.
 
 Introduction
